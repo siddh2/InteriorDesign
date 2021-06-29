@@ -1,5 +1,8 @@
 # InteriorDesign
-**This is a simple responsive website for a company in which they can add about there project, there team member and there company there is a contact section in the website by them a client can contact with a company.**
+**Created Interior design website for a company to track project status.
+•	Accelerated user experience company-wide by 55%.
+•	Responsible for full stack development – end to end web development.
+**
 
 ![Screenshot (1100)](https://user-images.githubusercontent.com/68075023/100753545-ed943900-340f-11eb-8f1c-4f8f92d2a75c.png)
 
